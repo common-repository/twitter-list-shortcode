@@ -1,0 +1,25 @@
+.twitter-list-shortcode ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.twitter-list-shortcode ul li {
+	list-style-type: none;
+	padding: 0 0 5px;
+	margin: 0 0 5px;
+	border-bottom: 1px solid #eee;
+}
+
+.twitter-list-shortcode ul li:last-child {
+	border-bottom: none;
+}
+
+.twitter-list-shortcode .tl-image {
+	float: left;
+	margin: 0 10px 0 0;
+}
+
+.tl-user, .tl-tweet, .tl-date {
+	margin: 0 0 0 58px;
+}
